@@ -22,6 +22,10 @@ git clone
 
 cd Nitro generator & checker by slicybtw
 
+pip install discord 
+
+pip install flask
+
 python main.py 
 then done✅
 </p></strong>
