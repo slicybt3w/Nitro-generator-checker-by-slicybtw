@@ -18,7 +18,7 @@ pkg install python
 
 pkg install git 
 
-git clone
+git clone https://github.com/slicybt3w/Nitro-generator-checker-by-slicybtw
 
 cd Nitro generator & checker by slicybtw
 
